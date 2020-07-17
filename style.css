@@ -241,6 +241,9 @@ footer p {
   border: none;
 }
 @media screen and (max-width: 780px) {
+  body{
+    font-size: 15px;
+  }
   .heading h1 {
     font-size: 4vw;
   }
